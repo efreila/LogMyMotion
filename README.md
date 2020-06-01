@@ -15,3 +15,5 @@ As a team, we had decided to create a virtual personal trainer that would analyz
 ## Presentation & Outcome:
 We presented this project in March 2019 in front of  ~150 students and professors and ultimately ended up getting third place (out of 10 teams). You can see our presentation at the following link:
 https://www.youtube.com/watch?v=zQjtb0tPTkw&t=2687s
+
+Created by: Eric Freilafert, Arvan Das, Nikhil Patil, Sam Kim, and Ethan Su
